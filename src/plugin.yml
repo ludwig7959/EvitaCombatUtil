@@ -1,0 +1,8 @@
+main: com.tistory.hornslied.evitaonline.combat.EvitaCombatUtilMain
+name: EvitaCombatUtil
+version: 1.0
+author: Ludwig Hornslied
+depend: [EvitaCore, Towny, ArmorEquipEvent]
+commands:
+  pvpprot:
+    aliases: [pvp보호, PvP보호]
